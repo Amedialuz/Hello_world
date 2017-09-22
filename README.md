@@ -1,2 +1,2 @@
 # Hello_world
-GitHub Repository name
+Started learning GitHub on 22 Sep 2017.
